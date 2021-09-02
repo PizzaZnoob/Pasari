@@ -1,0 +1,2 @@
+PySoundFile
+scipy~=1.6.2
